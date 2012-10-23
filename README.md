@@ -8,8 +8,10 @@ I called this **TypeBakery** in the style of [CakePHP's Bakery](http://bakery.ca
 
 ## Unit testing
 
-I've coded a simple unit testing suite. You can find it in the `UnitTest` subfolder.
-You can also find *RunUnitTests.html* there: it displays all results.
+I've coded a simple unit testing suite. You can find it in the [UnitTest](https://github.com/ComFreek/TypeBakery/tree/master/UnitTest) subfolder.
+
+Run unit tests: <http://comfreek.github.com/TypeBakery/RunUnitTests.html>
+
 
 ## About
 Idea: [@comfreek](http://twitter.com/comfreek)
